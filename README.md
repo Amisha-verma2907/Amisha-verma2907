@@ -1,3 +1,4 @@
+![logo](https://getwallpapers.com/wallpaper/full/7/d/c/15327.jpg)
 <h1 align="center">Hi 👋, I'm Amisha verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
