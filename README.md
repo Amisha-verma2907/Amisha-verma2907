@@ -3,13 +3,18 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🌱 I’m currently learning **Mern Stack course of CodingNinjas**
+- 🎓 I’ve successfully completed the **MERN Stack course** from **Coding Ninjas**.
 
-- 💬 Ask me about **Node.js, Mongodb, javascript, css, html etc.**
+- 🚀 I've built several **interesting full-stack projects** that reflect my passion for web development.
 
-- 📫 How to reach me **amuverma543@gmail.com**
+- 💻 I work with **Node.js, MongoDB, JavaScript, React.js, CSS, HTML**, and love bringing ideas to life through code.
 
-- ⚡ Fun fact **I am good Artist**
+- 🎨 Fun fact: I’m also a **skilled artist**, and painting is my creative escape.
+
+- 📫 Reach out to me at: **amuverma543@gmail.com**
+
+- 💬 Always open to collaboration, discussions, or just geeking out over cool dev stuff!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
